@@ -1,2 +1,12 @@
-# zhangruix
-ICBD of CYCU student
+# 嗨，我是張睿軒
+
+中原大學學生，正在學習計算機概論
+
+## 關於我
+-系級：智慧運算與大數據學士班
+-正在學習：Python、Github
+-感興趣的主題：音樂
+-學習目標：取得及格
+
+## 我的作品
+[中原智運](https://icbd.cycu.edu.tw/)
